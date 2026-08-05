@@ -33,5 +33,9 @@ a {
 
 hr {
   border: 0;
-  border-top: 1px solid #444;
+  border-top: .4px solid #444;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  border-bottom: none !important;
 }
