@@ -21,7 +21,7 @@ Each participating game must provide:
 
 Related:
 
-[Game Requirements](../Games/Game%20Requirements.md)
+[Game Requirements](../Games/Game%20Requirements)
 
 ---
 
@@ -37,7 +37,7 @@ Developer submits:
 
 Related:
 
-[Developer Application](Developer%20Application.md)
+[Developer Application](Developer%20Application)
 
 ---
 
@@ -63,7 +63,7 @@ Badges must correctly award the matching currency.
 
 Related:
 
-[Badge System](../Gameplay%20Systems/Badge%20System.md)
+[Badge System](../Gameplay%20Systems/Badge%20System)
 
 ---
 
@@ -78,7 +78,7 @@ Verify:
 
 Related:
 
-[Testing Plan](Testing%20Plan.md)
+[Testing Plan](Testing%20Plan)
 
 ---
 
@@ -121,7 +121,7 @@ UGC Accessories
 
 Developers can get help through:
 
-[Developer Communication](../Games/Developer%20Communication.md)
+[Developer Communication](../Games/Developer%20Communication)
 
 **[Join Developer Chat](https://samson-recipes.neocities.org/chat?invite=u8fr4taa48)**
 

@@ -25,8 +25,8 @@ Event rewards must:
 
 Related:
 
-[Reward System Flow](../Development/Reward%20System%20Flow.md)
-[Currency System](../Development/Currency%20System.md)
+[Reward System Flow](../Development/Reward%20System%20Flow)
+[Currency System](../Development/Currency%20System)
 
 ---
 
@@ -42,8 +42,8 @@ Games must:
 
 Related:
 
-[Game Requirements](../Games/Game%20Requirements.md)
-[Developer Integration](../Development/Developer%20Integration.md)
+[Game Requirements](../Games/Game%20Requirements)
+[Developer Integration](../Development/Developer%20Integration)
 
 ---
 
@@ -58,8 +58,8 @@ Developers must:
 
 Related:
 
-[Developer Guide](../Games/Developer%20Guide.md)
-[Developer Communication](../Games/Developer%20Communication.md)
+[Developer Guide](../Games/Developer%20Guide)
+[Developer Communication](../Games/Developer%20Communication)
 
 ---
 
@@ -74,5 +74,5 @@ The event should prevent:
 
 Related:
 
-[Scripts Needed](../Development/Scripts%20Needed.md)
-[Testing Plan](../Development/Testing%20Plan.md)
+[Scripts Needed](../Development/Scripts%20Needed)
+[Testing Plan](../Development/Testing%20Plan)

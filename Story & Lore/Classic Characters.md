@@ -10,7 +10,7 @@ The player is a Robloxian who joins the mission to restore the classic timeline.
 
 Related:
 
-[Event Overview](../Event/Event%20Overview.md)
+[Event Overview](../Event/Event%20Overview)
 
 ---
 
@@ -34,8 +34,8 @@ Purpose:
 
 Related:
 
-[Classic Builder](Characters/Classic%20Builder.md)
-[Builder Tokens System](../Gameplay%20Systems/Builder%20Tokens%20System.md)
+[Classic Builder](Characters/Classic%20Builder)
+[Builder Tokens System](../Gameplay%20Systems/Builder%20Tokens%20System)
 
 ---
 
@@ -51,8 +51,8 @@ Purpose:
 
 Related:
 
-[Classic Guest](Characters/Classic%20Guest.md)
-[Quest System](../Gameplay%20Systems/Quest%20System.md)
+[Classic Guest](Characters/Classic%20Guest)
+[Quest System](../Gameplay%20Systems/Quest%20System)
 
 ---
 
@@ -77,7 +77,7 @@ Players can already recreate the classic Noob appearance using Roblox body color
 
 Related:
 
-[Classic Noob](Characters/Classic%20Noob.md)
+[Classic Noob](Characters/Classic%20Noob)
 
 ---
 
@@ -93,8 +93,8 @@ Purpose:
 
 Related:
 
-[Classic Explorer](Characters/Classic%20Explorer.md)
-[Quest System](../Gameplay%20Systems/Quest%20System.md)
+[Classic Explorer](Characters/Classic%20Explorer)
+[Quest System](../Gameplay%20Systems/Quest%20System)
 
 ---
 
@@ -110,8 +110,8 @@ Purpose:
 
 Related:
 
-[Timeline Guardian](Characters/Timeline%20Guardian.md)
-[Story Timeline](Story%20Timeline.md)
+[Timeline Guardian](Characters/Timeline%20Guardian)
+[Story Timeline](Story%20Timeline)
 
 ---
 
@@ -123,8 +123,8 @@ These characters add mystery and exploration to the event.
 
 Possible myth characters:
 
-- [Guest 666](Characters/Guest%20666.md)
-- [1x1x1x1](Characters/1x1x1x1.md)
+- [Guest 666](Characters/Guest%20666)
+- [1x1x1x1](Characters/1x1x1x1)
 
 ---
 
@@ -134,5 +134,5 @@ The Korblox are the main enemies of the event.
 
 Related:
 
-[Korblox Lore](Korblox%20Lore.md)
-[Bosses](Bosses.md)
+[Korblox Lore](Korblox%20Lore)
+[Bosses](Bosses)

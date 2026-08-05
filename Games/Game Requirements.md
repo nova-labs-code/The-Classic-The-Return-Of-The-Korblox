@@ -29,7 +29,7 @@ Reward:
 
 Used for:
 
-[Classic Clothing Rewards](../Rewards/Classic%20Clothing%20Rewards.md)
+[Classic Clothing Rewards](../Rewards/Classic%20Clothing%20Rewards)
 
 ---
 
@@ -52,7 +52,7 @@ Reward:
 
 Used for:
 
-[Builder Token UGC Rewards](../Rewards/Builder%20Token%20UGC%20Rewards.md)
+[Builder Token UGC Rewards](../Rewards/Builder%20Token%20UGC%20Rewards)
 
 ---
 

@@ -27,7 +27,7 @@ Requirements:
 - A classic Roblox feeling
 
 See:
-[Game Requirements](Game%20Requirements.md)
+[Game Requirements](Game%20Requirements)
 
 ---
 
@@ -45,8 +45,8 @@ Games can include:
 Each quest should reward players with event progression.
 
 Possible rewards:
-- [Tixs](../Gameplay%20Systems/Tixs%20System.md)
-- [Builder Tokens](../Gameplay%20Systems/Builder%20Tokens%20System.md)
+- [Tixs](../Gameplay%20Systems/Tixs%20System)
+- [Builder Tokens](../Gameplay%20Systems/Builder%20Tokens%20System)
 - Event badges
 
 ---

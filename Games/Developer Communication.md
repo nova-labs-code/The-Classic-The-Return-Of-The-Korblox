@@ -80,9 +80,9 @@ Approved developers only.
 
 Requirements:
 
-- Accepted [Developer Application](../Development/Developer%20Application.md)
+- Accepted [Developer Application](../Development/Developer%20Application)
 - Participating experience
-- Meets all [Game Requirements](Game%20Requirements.md)
+- Meets all [Game Requirements](Game%20Requirements)
 
 ---
 
@@ -106,7 +106,7 @@ Approved UGC creators and event staff.
 
 Related:
 
-[Builder Token UGC Rewards](../Rewards/Builder%20Token%20UGC%20Rewards.md)
+[Builder Token UGC Rewards](../Rewards/Builder%20Token%20UGC%20Rewards)
 
 ---
 
@@ -131,7 +131,7 @@ Approved testers and event staff.
 
 Related:
 
-[Testing Plan](../Development/Testing%20Plan.md)
+[Testing Plan](../Development/Testing%20Plan)
 
 ---
 
@@ -159,7 +159,7 @@ Open to all event participants.
 
 Developers should receive access to:
 
-- [Developer Guide](Developer%20Guide.md)
+- [Developer Guide](Developer%20Guide)
 - Story documentation
 - Quest guidelines
 - Badge requirements
@@ -191,7 +191,7 @@ Participating developers submit:
 
 Related:
 
-[Developer Application](../Development/Developer%20Application.md)
+[Developer Application](../Development/Developer%20Application)
 
 ---
 

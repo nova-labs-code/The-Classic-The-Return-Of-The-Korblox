@@ -17,8 +17,8 @@ Tasks:
 
 Related:
 
-[Developer Communication](../Games/Developer%20Communication.md)
-[Testing Plan](../Development/Testing%20Plan.md)
+[Developer Communication](../Games/Developer%20Communication)
+[Testing Plan](../Development/Testing%20Plan)
 
 ---
 
@@ -36,7 +36,7 @@ Tasks:
 
 Related:
 
-[Developer Application](../Development/Developer%20Application.md)
+[Developer Application](../Development/Developer%20Application)
 
 ---
 
@@ -54,7 +54,7 @@ Tasks:
 
 Related:
 
-[Testing Plan](../Development/Testing%20Plan.md)
+[Testing Plan](../Development/Testing%20Plan)
 
 ---
 

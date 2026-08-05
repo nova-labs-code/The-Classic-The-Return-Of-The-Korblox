@@ -2,8 +2,8 @@ The currency system manages the event currencies used for unlocking rewards.
 
 The Classic: The Return of Korblox uses two event currencies:
 
-- [Tixs](../Gameplay%20Systems/Tixs%20System.md)
-- [Builder Tokens](../Gameplay%20Systems/Builder%20Tokens%20System.md)
+- [Tixs](../Gameplay%20Systems/Tixs%20System)
+- [Builder Tokens](../Gameplay%20Systems/Builder%20Tokens%20System)
 
 ---
 
@@ -31,8 +31,8 @@ Used for:
 
 Related:
 
-[Tix Shop](../Rewards/Tix%20Shop.md)
-[Classic Clothing Rewards](../Rewards/Classic%20Clothing%20Rewards.md)
+[Tix Shop](../Rewards/Tix%20Shop)
+[Classic Clothing Rewards](../Rewards/Classic%20Clothing%20Rewards)
 
 ---
 
@@ -53,8 +53,8 @@ Used for:
 
 Related:
 
-[Builder Token Shop](../Rewards/Builder%20Token%20Shop.md)
-[Builder Token UGC Rewards](../Rewards/Builder%20Token%20UGC%20Rewards.md)
+[Builder Token Shop](../Rewards/Builder%20Token%20Shop)
+[Builder Token UGC Rewards](../Rewards/Builder%20Token%20UGC%20Rewards)
 
 ---
 
@@ -112,5 +112,5 @@ Participating games should only award currencies through approved event badges.
 
 Related:
 
-[Developer Integration](Developer%20Integration.md)
-[Badge System](../Gameplay%20Systems/Badge%20System.md)
+[Developer Integration](Developer%20Integration)
+[Badge System](../Gameplay%20Systems/Badge%20System)

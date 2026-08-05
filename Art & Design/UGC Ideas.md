@@ -23,10 +23,10 @@ Avoid:
 
 ## Outfit UGC
 
-Full outfit rewards are unlocked through [Builder Tokens](../Gameplay%20Systems/Builder%20Tokens%20System.md).
+Full outfit rewards are unlocked through [Builder Tokens](../Gameplay%20Systems/Builder%20Tokens%20System).
 
 See:
-[Classic Outfits](../Rewards/Classic%20Outfits.md)
+[Classic Outfits](../Rewards/Classic%20Outfits)
 
 ---
 

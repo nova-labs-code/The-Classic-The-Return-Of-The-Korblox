@@ -21,8 +21,8 @@ Before release:
 
 Related:
 
-[Testing Plan](../Development/Testing%20Plan.md)
-[Developer Communication](../Games/Developer%20Communication.md)
+[Testing Plan](../Development/Testing%20Plan)
+[Developer Communication](../Games/Developer%20Communication)
 
 ---
 

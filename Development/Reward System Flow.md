@@ -30,8 +30,8 @@ Player completes easy quest
 
 Related:
 
-[Tix Shop](../Rewards/Tix%20Shop.md)
-[Classic Clothing Rewards](../Rewards/Classic%20Clothing%20Rewards.md)
+[Tix Shop](../Rewards/Tix%20Shop)
+[Classic Clothing Rewards](../Rewards/Classic%20Clothing%20Rewards)
 
 ---
 
@@ -49,8 +49,8 @@ Player completes hard quest
 
 Related:
 
-[Builder Token Shop](../Rewards/Builder%20Token%20Shop.md)
-[Builder Token UGC Rewards](../Rewards/Builder%20Token%20UGC%20Rewards.md)
+[Builder Token Shop](../Rewards/Builder%20Token%20Shop)
+[Builder Token UGC Rewards](../Rewards/Builder%20Token%20UGC%20Rewards)
 
 ---
 
