@@ -2,23 +2,3 @@
 ---
 
 @import "{{ site.theme }}";
-
-body {
-  background: #121212;
-  color: #e5e5e5;
-}
-
-a {
-  color: #8ab4f8;
-}
-
-.page-content,
-.site-header,
-.site-footer {
-  background: #121212;
-  color: #e5e5e5;
-}
-
-.site-title {
-  display: none;
-}
