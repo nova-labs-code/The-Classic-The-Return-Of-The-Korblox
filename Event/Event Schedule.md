@@ -17,8 +17,8 @@ Tasks:
 
 Related:
 
-[Developer Communication](../Games/Developer%20Communication)
-[Testing Plan](../Development/Testing%20Plan)
+[Developer Communication](../Games/Developer%20Communication.md)
+[Testing Plan](../Development/Testing%20Plan.md)
 
 ---
 
@@ -36,7 +36,7 @@ Tasks:
 
 Related:
 
-[Developer Application](../Development/Developer%20Application)
+[Developer Application](../Development/Developer%20Application.md)
 
 ---
 
@@ -54,7 +54,7 @@ Tasks:
 
 Related:
 
-[Testing Plan](../Development/Testing%20Plan)
+[Testing Plan](../Development/Testing%20Plan.md)
 
 ---
 
@@ -96,3 +96,6 @@ Tasks:
 - Record results
 - Celebrate community participation
 - Preserve event history
+
+All Files:
+[Dictionary](../index.md)

@@ -45,3 +45,6 @@ Players should be encouraged to:
 - Show rewards
 - Complete challenges
 - Invite friends
+
+All Files:
+[Dictionary](../index.md)

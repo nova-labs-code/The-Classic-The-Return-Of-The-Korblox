@@ -71,3 +71,6 @@ Designed for players who complete the most difficult challenges.
 Tiers determine the progression needed to unlock the reward.
 
 They do not represent item rarity.
+
+All Files:
+[Dictionary](../index.md)

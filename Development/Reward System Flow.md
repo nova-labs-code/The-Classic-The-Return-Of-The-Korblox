@@ -30,8 +30,8 @@ Player completes easy quest
 
 Related:
 
-[Tix Shop](../Rewards/Tix%20Shop)
-[Classic Clothing Rewards](../Rewards/Classic%20Clothing%20Rewards)
+[Tix Shop](../Rewards/Tix%20Shop.md)
+[Classic Clothing Rewards](../Rewards/Classic%20Clothing%20Rewards.md)
 
 ---
 
@@ -49,8 +49,8 @@ Player completes hard quest
 
 Related:
 
-[Builder Token Shop](../Rewards/Builder%20Token%20Shop)
-[Builder Token UGC Rewards](../Rewards/Builder%20Token%20UGC%20Rewards)
+[Builder Token Shop](../Rewards/Builder%20Token%20Shop.md)
+[Builder Token UGC Rewards](../Rewards/Builder%20Token%20UGC%20Rewards.md)
 
 ---
 
@@ -95,3 +95,6 @@ The system should prevent:
 - Fake badge claims
 - Currency manipulation
 - Reward duplication
+
+All Files:
+[Dictionary](../index.md)

@@ -1,4 +1,4 @@
-Builder Token rewards are exclusive UGC items unlocked by earning [Builder Tokens](../Gameplay%20Systems/Builder%20Tokens%20System).
+Builder Token rewards are exclusive UGC items unlocked by earning [Builder Tokens](../Gameplay%20Systems/Builder%20Tokens%20System.md).
 
 These rewards should feel like classic Roblox collectibles while still being desirable for modern players.
 
@@ -26,7 +26,7 @@ Avoid:
 The main Builder Token rewards are full classic-themed outfits.
 
 See:
-[Classic Outfits](Classic%20Outfits)
+[Classic Outfits](Classic%20Outfits.md)
 
 ---
 
@@ -96,3 +96,6 @@ Hard Quests
 
 Full Completion
 → Unlock Final Event Reward
+
+All Files:
+[Dictionary](../index.md)

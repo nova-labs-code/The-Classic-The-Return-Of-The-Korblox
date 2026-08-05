@@ -96,3 +96,6 @@ Rewards should be:
 - Worth showing off
 
 Players should immediately know an item is from the event.
+
+All Files:
+[Dictionary](../index.md)

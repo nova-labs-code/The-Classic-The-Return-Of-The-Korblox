@@ -17,7 +17,7 @@ Features:
 
 Related:
 
-[Event Hub](../Event/Event%20Hub)
+[Event Hub](../Event/Event%20Hub.md)
 
 ---
 
@@ -33,7 +33,7 @@ Features:
 
 Related:
 
-[Builder Tokens System](../Gameplay%20Systems/Builder%20Tokens%20System)
+[Builder Tokens System](../Gameplay%20Systems/Builder%20Tokens%20System.md)
 
 ---
 
@@ -49,7 +49,7 @@ Features:
 
 Related:
 
-[Tixs System](../Gameplay%20Systems/Tixs%20System)
+[Tixs System](../Gameplay%20Systems/Tixs%20System.md)
 
 ---
 
@@ -65,7 +65,7 @@ Features:
 
 Related:
 
-[Bosses](Bosses)
+[Bosses](Bosses.md)
 
 ---
 
@@ -81,4 +81,7 @@ Features:
 
 Related:
 
-[Story Timeline](Story%20Timeline)
+[Story Timeline](Story%20Timeline.md)
+
+All Files:
+[Dictionary](../index.md)

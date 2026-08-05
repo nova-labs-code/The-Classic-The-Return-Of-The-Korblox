@@ -67,3 +67,6 @@ The system should:
 - Remove currency after purchase
 - Give the reward
 - Save ownership
+
+All Files:
+[Dictionary](../index.md)

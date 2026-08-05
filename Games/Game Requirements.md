@@ -29,7 +29,7 @@ Reward:
 
 Used for:
 
-[Classic Clothing Rewards](../Rewards/Classic%20Clothing%20Rewards)
+[Classic Clothing Rewards](../Rewards/Classic%20Clothing%20Rewards.md)
 
 ---
 
@@ -52,7 +52,7 @@ Reward:
 
 Used for:
 
-[Builder Token UGC Rewards](../Rewards/Builder%20Token%20UGC%20Rewards)
+[Builder Token UGC Rewards](../Rewards/Builder%20Token%20UGC%20Rewards.md)
 
 ---
 
@@ -66,3 +66,6 @@ Each participating game can provide:
 - 1 Builder Token reward
 
 This keeps every game unique while giving players a reason to complete both quests.
+
+All Files:
+[Dictionary](../index.md)

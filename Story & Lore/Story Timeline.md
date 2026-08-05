@@ -13,8 +13,8 @@ Unknown to players, something was waiting beyond the timeline.
 The Korblox discovered ancient records of the classic Roblox era.
 
 They learned that the power of the old era came from:
-- [Tixs](../Gameplay%20Systems/Tixs%20System)
-- [Builder Tokens](../Gameplay%20Systems/Builder%20Tokens%20System)
+- [Tixs](../Gameplay%20Systems/Tixs%20System.md)
+- [Builder Tokens](../Gameplay%20Systems/Builder%20Tokens%20System.md)
 - Classic creations made by the community
 
 The Korblox believed that if they controlled the past, they could control the future.
@@ -43,8 +43,8 @@ Players are chosen to protect Roblox history.
 
 They must:
 - Explore classic worlds
-- Complete [quests](../Gameplay%20Systems/Quest%20System)
-- Recover lost [Tixs](../Gameplay%20Systems/Tixs%20System)
+- Complete [quests](../Gameplay%20Systems/Quest%20System.md)
+- Recover lost [Tixs](../Gameplay%20Systems/Tixs%20System.md)
 - Earn [Builder Tokens](<Builder%20Tokens%20System>)
 - Defeat Korblox forces
 
@@ -61,3 +61,6 @@ After the battle:
 - Tixs return
 - Builders continue creating
 - The legacy of Roblox lives on
+
+All Files:
+[Dictionary](../index.md)

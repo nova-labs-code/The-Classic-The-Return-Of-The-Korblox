@@ -35,5 +35,8 @@ Players must protect it to preserve Roblox history.
 
 Related:
 
-[Story Timeline](Story%20Timeline)
-[Korblox Lore](Korblox%20Lore)
+[Story Timeline](Story%20Timeline.md)
+[Korblox Lore](Korblox%20Lore.md)
+
+All Files:
+[Dictionary](../index.md)

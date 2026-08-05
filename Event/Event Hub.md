@@ -34,8 +34,8 @@ Includes:
 
 Players can view:
 
-- [Classic Clothing Rewards](../Rewards/Classic%20Clothing%20Rewards)
-- [Builder Token UGC Rewards](../Rewards/Builder%20Token%20UGC%20Rewards)
+- [Classic Clothing Rewards](../Rewards/Classic%20Clothing%20Rewards.md)
+- [Builder Token UGC Rewards](../Rewards/Builder%20Token%20UGC%20Rewards.md)
 
 ---
 
@@ -53,7 +53,7 @@ Players can see:
 
 Contains portals to:
 
-- [Participating Games](../Games/Participating%20Games)
+- [Participating Games](../Games/Participating%20Games.md)
 
 ---
 
@@ -64,3 +64,7 @@ Shows:
 - Korblox invasion
 - Timeline information
 - Event updates
+
+
+All Files:
+[Dictionary](../index.md)

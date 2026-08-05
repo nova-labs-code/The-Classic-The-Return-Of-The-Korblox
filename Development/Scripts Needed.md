@@ -18,7 +18,7 @@ Required systems:
 
 Required:
 
-[Tixs](../Gameplay%20Systems/Tixs%20System)
+[Tixs](../Gameplay%20Systems/Tixs%20System.md)
 
 Systems needed:
 - Earning Tixs
@@ -28,7 +28,7 @@ Systems needed:
 
 ---
 
-[Builder Tokens](../Gameplay%20Systems/Builder%20Tokens%20System)
+[Builder Tokens](../Gameplay%20Systems/Builder%20Tokens%20System.md)
 
 Systems needed:
 - Earning Builder Tokens
@@ -48,7 +48,7 @@ Required:
 - Reward distribution
 
 Related:
-[Quest System](../Gameplay%20Systems/Quest%20System)
+[Quest System](../Gameplay%20Systems/Quest%20System.md)
 
 ---
 
@@ -61,7 +61,7 @@ Required:
 - Completion tracking
 
 Related:
-[Badge System](../Gameplay%20Systems/Badge%20System)--
+[Badge System](../Gameplay%20Systems/Badge%20System.md)--
 
 ## Developer Integration
 
@@ -73,7 +73,7 @@ Systems needed:
 - Reward communication
 
 Related:
-[Developer Guide](../Games/Developer%20Guide)
+[Developer Guide](../Games/Developer%20Guide.md)
 
 ---
 
@@ -85,3 +85,6 @@ Required:
 - Reward testing
 - Quest testing
 - Data saving tests
+
+All Files:
+[Dictionary](../index.md)

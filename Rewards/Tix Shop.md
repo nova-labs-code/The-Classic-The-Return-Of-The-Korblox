@@ -73,3 +73,6 @@ The system should save:
 - Purchased items
 - Remaining Tixs
 - Reward ownership
+
+All Files:
+[Dictionary](../index.md)

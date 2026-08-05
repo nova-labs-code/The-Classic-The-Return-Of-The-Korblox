@@ -84,3 +84,6 @@ Tixs rewards should allow every player to participate, even if they cannot compl
 
 See:
 [Builder Token UGC Rewards](Builder%20Token%20UGC%20Rewards.md)
+
+All Files:
+[Dictionary](../index.md)

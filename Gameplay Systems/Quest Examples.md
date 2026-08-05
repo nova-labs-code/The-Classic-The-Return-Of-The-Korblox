@@ -122,3 +122,6 @@ Final reward:
 
 - Builder Tokens
 - Completion badge
+
+All Files:
+[Dictionary](../index.md)

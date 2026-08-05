@@ -71,7 +71,7 @@ Style:
 
 Related:
 
-[Bosses](../Story%20&%20Lore/Bosses)
+[Bosses](../Story%20&%20Lore/Bosses.md)
 
 ---
 
@@ -89,7 +89,7 @@ Style:
 
 Related:
 
-[Korblox Lore](../Story%20&%20Lore/Korblox%20Lore)
+[Korblox Lore](../Story%20&%20Lore/Korblox%20Lore.md)
 
 ---
 
@@ -115,3 +115,6 @@ Music should:
 - Be properly licensed or approved
 - Match the area it is used in
 - Avoid distracting players from gameplay
+
+All Files:
+[Dictionary](../index.md)

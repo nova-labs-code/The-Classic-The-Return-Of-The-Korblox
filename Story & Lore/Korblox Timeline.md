@@ -26,7 +26,7 @@ Players and classic characters fight back.
 
 They recover:
 
-- Lost [Tixs](../Gameplay%20Systems/Tixs%20System)
+- Lost [Tixs](../Gameplay%20Systems/Tixs%20System.md)
 - Builder creations
 - Classic locations
 
@@ -38,5 +38,8 @@ Players defeat the Korblox Leader and restore the timeline.
 
 Related:
 
-[Story Timeline](Story%20Timeline)
-[Bosses](Bosses)
+[Story Timeline](Story%20Timeline.md)
+[Bosses](Bosses.md)
+
+All Files:
+[Dictionary](../index.md)

@@ -2,11 +2,11 @@
 
 ## Home
 
-[Home](Dashbaord/Home)
+[Home](Dashbaord/Home.md)
 
-[Event Overview](Event/Event%20Overview)
+[Event Overview](Event/Event%20Overview.md)
 
-[Technical Requirements](Development/Technical%20Requirements)
+[Technical Requirements](Development/Technical%20Requirements.md)
 
 
 ---
@@ -15,152 +15,153 @@
 
 **[Join Developer Chat](https://samson-recipes.neocities.org/chat?invite=u8fr4taa48)**
 
-[Developer Communication](Games/Developer%20Communication)
+[Developer Communication](Games/Developer%20Communication.md)
 
-[Developer Guide](Games/Developer%20Guide)
+[Developer Guide](Games/Developer%20Guide.md)
 
 ---
 
 # Event
 
-[Event Goals](Event/Event%20Goals)
+[Event Goals](Event/Event%20Goals.md)
 
-[Event Overview](Event/Event%20Overview)
+[Event Overview](Event/Event%20Overview.md)
 
-[Event Hub](Event/Event%20Hub)
+[Event Hub](Event/Event%20Hub.md)
 
-[Marketing Plan](Event/Marketing%20Plan)
+[Marketing Plan](Event/Marketing%20Plan.md)
 
-[Launch Plan](Event/Launch%20Plan)
+[Launch Plan](Event/Launch%20Plan.md)
 
-[Event Schedule](Event/Event%20Schedule)
+[Event Schedule](Event/Event%20Schedule.md)
 
-[Event Rules](Event/Event%20Rules)
+[Event Rules](Event/Event%20Rules.md)
 
 ---
 
 # Story & Lore
 
-[Classic Roblox Era](Story%20&%20Lore/Classic%20Roblox%20Era)
+[Classic Roblox Era](Story%20&%20Lore/Classic%20Roblox%20Era.md)
 
-[Korblox Timeline](Story%20&%20Lore/Korblox%20Timeline)
+[Korblox Timeline](Story%20&%20Lore/Korblox%20Timeline.md)
 
-[Story Timeline](Story%20&%20Lore/Story%20Timeline)
+[Story Timeline](Story%20&%20Lore/Story%20Timeline.md)
 
-[Korblox Lore](Story%20&%20Lore/Korblox%20Lore)
+[Korblox Lore](Story%20&%20Lore/Korblox%20Lore.md)
 
-[Classic Locations](Story%20&%20Lore/Classic%20Locations)
+[Classic Locations](Story%20&%20Lore/Classic%20Locations.md)
 
 ---
 
 # Characters
 
-[Classic Characters](Story%20&%20Lore/Classic%20Characters)
+[Classic Characters](Story%20&%20Lore/Classic%20Characters.md)
 
-[Classic Builder](Story%20&%20Lore/Characters/Classic%20Builder)
+[Classic Builder](Story%20&%20Lore/Characters/Classic%20Builder.md)
 
-[Classic Guest](Story%20&%20Lore/Characters/Classic%20Guest)
+[Classic Guest](Story%20&%20Lore/Characters/Classic%20Guest.md)
 
-[Classic Noob](Story%20&%20Lore/Characters/Classic%20Noob)
+[Classic Noob](Story%20&%20Lore/Characters/Classic%20Noob.md)
 
-[Classic Explorer](Story%20&%20Lore/Characters/Classic%20Explorer)
+[Classic Explorer](Story%20&%20Lore/Characters/Classic%20Explorer.md)
 
-[Timeline Guardian](Story%20&%20Lore/Characters/Timeline%20Guardian)
+[Timeline Guardian](Story%20&%20Lore/Characters/Timeline%20Guardian.md)
 
-[Guest 666](Story%20&%20Lore/Characters/Guest%20666)
+[Guest 666](Story%20&%20Lore/Characters/Guest%20666.md)
 
-[1x1x1x1](Story%20&%20Lore/Characters/1x1x1x1)
+[1x1x1x1](Story%20&%20Lore/Characters/1x1x1x1.md)
 
 ---
 
 # Bosses
 
-[Bosses](Story%20&%20Lore/Bosses)
+[Bosses](Story%20&%20Lore/Bosses.md)
 
 ---
 
 # Gameplay Systems
 
-[Reward Shop](Gameplay%20Systems/Reward%20Shop)
+[Reward Shop](Gameplay%20Systems/Reward%20Shop.md)
 
-[Player Progression](Gameplay%20Systems/Player%20Progression)
+[Player Progression](Gameplay%20Systems/Player%20Progression.md)
 
-[Quest System](Gameplay%20Systems/Quest%20System)
+[Quest System](Gameplay%20Systems/Quest%20System.md)
 
-[Quest Examples](Gameplay%20Systems/Quest%20Examples)
+[Quest Examples](Gameplay%20Systems/Quest%20Examples.md)
 
-[Reward System Flow](Development/Reward%20System%20Flow)
+[Reward System Flow](Development/Reward%20System%20Flow.md)
 
 ---
 
 # Rewards
 
-[Tix Shop](Rewards/Tix%20Shop)
+[Tix Shop](Rewards/Tix%20Shop.md)
 
-[Builder Token Shop](Rewards/Builder%20Token%20Shop)
+[Builder Token Shop](Rewards/Builder%20Token%20Shop.md)
 
-[Reward Pricing](Rewards/Reward%20Pricing)
+[Reward Pricing](Rewards/Reward%20Pricing.md)
 
-[Classic Outfits](Rewards/Classic%20Outfits)
+[Classic Outfits](Rewards/Classic%20Outfits.md)
 
-[Classic Clothing Rewards](Rewards/Classic%20Clothing%20Rewards)
+[Classic Clothing Rewards](Rewards/Classic%20Clothing%20Rewards.md)
 
-[Builder Token UGC Rewards](Rewards/Builder%20Token%20UGC%20Rewards)
+[Builder Token UGC Rewards](Rewards/Builder%20Token%20UGC%20Rewards.md)
 
 ---
 
 # Currencies
 
-[Tixs System](Gameplay%20Systems/Tixs%20System)
+[Tixs System](Gameplay%20Systems/Tixs%20System.md)
 
-[Builder Tokens System](Gameplay%20Systems/Builder%20Tokens%20System)
+[Builder Tokens System](Gameplay%20Systems/Builder%20Tokens%20System.md)
 
 ---
 
 # Participating Games
 
-[Participating Games](Games/Participating%20Games)
+[Participating Games](Games/Participating%20Games.md)
 
-[Game Requirements](Games/Game%20Requirements)
+[Game Requirements](Games/Game%20Requirements.md)
 
-[Developer Application](Development/Developer%20Application)
+[Developer Application](Development/Developer%20Application.md)
 
-[Developer Communication](Games/Developer%20Communication)
+[Developer Communication](Games/Developer%20Communication.md)
 
 ---
 
 # Development
 
-[Testing Plan](Development/Testing%20Plan)
+[Testing Plan](Development/Testing%20Plan.md)
 
-[Badge System](Gameplay%20Systems/Badge%20System)
+[Badge System](Gameplay%20Systems/Badge%20System.md)
 
-[Currency System](Development/Currency%20System)
+[Currency System](Development/Currency%20System.md)
 
-[Developer Integration](Development/Developer%20Integration)
+[Developer Integration](Development/Developer%20Integration.md)
 
-[Scripts Needed](Development/Scripts%20Needed)
+[Scripts Needed](Development/Scripts%20Needed.md)
 
 ---
 
 # Scripts
 
-[Scripts Needed](Development/Scripts%20Needed)
+[Scripts Needed](Development/Scripts%20Needed.md)
 
 ---
 
 # Art & Design
 
-[UGC Ideas](Art%20&%20Design/UGC%20Ideas)
+[UGC Ideas](Art%20&%20Design/UGC%20Ideas.md)
 
-[Map Ideas](Art%20&%20Design/Map%20Ideas)
+[Map Ideas](Art%20&%20Design/Map%20Ideas.md)
 
-[Style Guide](Art%20&%20Design/Style%20Guide)
+[Style Guide](Art%20&%20Design/Style%20Guide.md)
 
-[Soundtrack](Art%20&%20Design/Soundtrack)
+[Soundtrack](Art%20&%20Design/Soundtrack.md)
 
 ---
 
 # Ideas
 
-[Brain Dump](Ideas/Brain%20Dump)
+[Brain Dump](Ideas/Brain%20Dump.md)
+

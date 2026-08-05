@@ -12,7 +12,7 @@ Add future ideas here.
 
 Possible bosses:
 
-- [Bosses](../Story%20&%20Lore/Bosses)
+- [Bosses](../Story%20&%20Lore/Bosses.md)
 - Classic Roblox myths
 - Korblox enemies
 - Timeline enemies
@@ -71,3 +71,6 @@ Ideas for after release:
 - New rewards
 - New bosses
 - New worlds
+
+All Files:
+[Dictionary](../index.md)

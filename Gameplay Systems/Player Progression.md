@@ -57,3 +57,6 @@ Related:
 
 [Badge System](Badge%20System.md)
 [Reward Shop](Reward%20Shop.md)
+
+All Files:
+[Dictionary](../index.md)

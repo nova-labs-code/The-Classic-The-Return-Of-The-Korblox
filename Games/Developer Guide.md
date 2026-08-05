@@ -64,3 +64,6 @@ Games will be reviewed for:
 - Theme connection
 - Quest design
 - Technical readiness
+
+All Files:
+[Dictionary](../index.md)

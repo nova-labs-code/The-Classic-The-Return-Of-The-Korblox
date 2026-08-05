@@ -63,3 +63,6 @@ Possible secrets:
 - Hidden developer room
 - Classic myths area
 - Rare collectibles
+
+All Files:
+[Dictionary](../index.md)

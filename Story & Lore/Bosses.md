@@ -58,7 +58,10 @@ Players must work together to defeat the leader and restore the timeline.
 
 Possible additional bosses:
 
-- [Guest 666](Characters/Guest%20666)
-- [1x1x1x1](Characters/1x1x1x1)
+- [Guest 666](Characters/Guest%20666.md)
+- [1x1x1x1](Characters/1x1x1x1.md)
 - Classic Myth Characters
 - Corrupted Roblox Legends
+
+All Files:
+[Dictionary](../index.md)

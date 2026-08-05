@@ -53,4 +53,7 @@ The strongest Korblox.
 The final enemy standing between players and restoring Roblox history.
 
 See:
-[Bosses](Bosses)
+[Bosses](Bosses.md)
+
+All Files:
+[Dictionary](../index.md)

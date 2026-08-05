@@ -51,3 +51,6 @@ Builder Tokens:
 ## Symbolism
 
 Builder Tokens represent the builders, developers, and creators who shaped Roblox.
+
+All Files:
+[Dictionary](../index.md)

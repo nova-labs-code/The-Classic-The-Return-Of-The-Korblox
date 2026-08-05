@@ -56,3 +56,6 @@ Requirement:
 
 Reward:
 - Exclusive event reward
+
+All Files:
+[Dictionary](../index.md)

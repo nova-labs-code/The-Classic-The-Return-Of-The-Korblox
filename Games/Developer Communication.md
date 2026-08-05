@@ -20,7 +20,7 @@ The event uses the Samson Recipes Chat platform as its official communication hu
 
 Website:
 
-https://samson-recipes.neocities.org/chat
+[Samson Recipes Chat](https://samson-recipes.neocities.org/chat)
 
 The platform is used for:
 
@@ -80,9 +80,9 @@ Approved developers only.
 
 Requirements:
 
-- Accepted [Developer Application](../Development/Developer%20Application)
+- Accepted [Developer Application](../Development/Developer%20Application.md)
 - Participating experience
-- Meets all [Game Requirements](Game%20Requirements)
+- Meets all [Game Requirements](Game%20Requirements.md)
 
 ---
 
@@ -106,7 +106,7 @@ Approved UGC creators and event staff.
 
 Related:
 
-[Builder Token UGC Rewards](../Rewards/Builder%20Token%20UGC%20Rewards)
+[Builder Token UGC Rewards](../Rewards/Builder%20Token%20UGC%20Rewards.md)
 
 ---
 
@@ -131,7 +131,7 @@ Approved testers and event staff.
 
 Related:
 
-[Testing Plan](../Development/Testing%20Plan)
+[Testing Plan](../Development/Testing%20Plan.md)
 
 ---
 
@@ -159,7 +159,7 @@ Open to all event participants.
 
 Developers should receive access to:
 
-- [Developer Guide](Developer%20Guide)
+- [Developer Guide](Developer%20Guide.md)
 - Story documentation
 - Quest guidelines
 - Badge requirements
@@ -191,7 +191,7 @@ Participating developers submit:
 
 Related:
 
-[Developer Application](../Development/Developer%20Application)
+[Developer Application](../Development/Developer%20Application.md)
 
 ---
 
@@ -228,3 +228,6 @@ After release, developers can report:
 - Quest issues
 - Exploits
 - Balance concerns
+
+All Files:
+[Dictionary](../index.md)

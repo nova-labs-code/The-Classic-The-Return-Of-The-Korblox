@@ -77,3 +77,6 @@ The event should provide:
 - Reliable rewards
 - Smooth gameplay
 - A memorable experience
+
+All Files:
+[Dictionary](../index.md)

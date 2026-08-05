@@ -46,3 +46,6 @@ Traits:
 ## Importance
 
 The Classic Noob represents the community of Roblox players.
+
+All Files:
+[Dictionary](../../index.md)

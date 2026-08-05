@@ -27,3 +27,6 @@ Reward:
 Purpose:
 
 Rewards skilled players with UGC progress.
+
+All Files:
+[Dictionary](../index.md)

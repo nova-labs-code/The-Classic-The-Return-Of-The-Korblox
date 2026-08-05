@@ -23,10 +23,10 @@ Avoid:
 
 ## Outfit UGC
 
-Full outfit rewards are unlocked through [Builder Tokens](../Gameplay%20Systems/Builder%20Tokens%20System).
+Full outfit rewards are unlocked through [Builder Tokens](../Gameplay%20Systems/Builder%20Tokens%20System.md).
 
 See:
-[Classic Outfits](../Rewards/Classic%20Outfits)
+[Classic Outfits](../Rewards/Classic%20Outfits.md)
 
 ---
 
@@ -85,3 +85,6 @@ Possible completion rewards:
 - Golden Builder Token
 - Classic Champion Outfit
 - Roblox Time Capsule
+
+All Files:
+[Dictionary](../index.md)

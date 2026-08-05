@@ -21,8 +21,8 @@ Before release:
 
 Related:
 
-[Testing Plan](../Development/Testing%20Plan)
-[Developer Communication](../Games/Developer%20Communication)
+[Testing Plan](../Development/Testing%20Plan.md)
+[Developer Communication](../Games/Developer%20Communication.md)
 
 ---
 
@@ -88,3 +88,6 @@ Possible updates:
 - Additional community challenges
 - Bug fixes
 - Extra story content
+
+All Files:
+[Dictionary](../index.md)

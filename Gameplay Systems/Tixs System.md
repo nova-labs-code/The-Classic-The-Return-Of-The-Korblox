@@ -42,3 +42,6 @@ They represent the feeling of collecting classic Roblox items and should allow e
 Tixs should not be extremely rare.
 
 Players should feel rewarded for playing, exploring, and completing quests.
+
+All Files:
+[Dictionary](../index.md)
