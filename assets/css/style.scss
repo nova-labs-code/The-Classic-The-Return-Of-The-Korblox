@@ -2,7 +2,31 @@
 ---
 
 @import "{{ site.theme }}";
+
+body,
+html {
+  background-color: #121212;
+  color: #e5e5e5;
+}
+
+.page-content,
+.wrapper,
+.site-header,
+.site-footer {
+  background-color: #121212;
+}
+
 .site-title,
 .site-nav {
   display: none;
+}
+
+h1, h2, h3, h4, h5, h6,
+p,
+li {
+  color: #e5e5e5;
+}
+
+a {
+  color: #8ab4f8;
 }
