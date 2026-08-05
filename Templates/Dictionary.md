@@ -1,2 +1,2 @@
 All Files:
-[Dictionary](../index.md)
+[Dictionary](../index)

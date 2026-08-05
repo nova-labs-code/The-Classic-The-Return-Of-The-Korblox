@@ -54,4 +54,4 @@ Traits:
 The Classic Builder represents the builders who created the worlds players remember.
 
 All Files:
-[Dictionary](../../index.md)
+[Dictionary](../../index)

@@ -55,8 +55,8 @@ Players who finish the event earn:
 
 Related:
 
-[Badge System](Badge%20System.md)
-[Reward Shop](Reward%20Shop.md)
+[Badge System](Badge%20System)
+[Reward Shop](Reward%20Shop)
 
 All Files:
-[Dictionary](../index.md)
+[Dictionary](../index)

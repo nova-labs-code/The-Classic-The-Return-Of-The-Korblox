@@ -22,7 +22,7 @@ Examples:
 Builder Tokens unlock exclusive classic-themed UGC rewards.
 
 See:
-[Builder Token UGC Rewards](../Rewards/Builder%20Token%20UGC%20Rewards.md)
+[Builder Token UGC Rewards](../Rewards/Builder%20Token%20UGC%20Rewards)
 
 ---
 
@@ -53,4 +53,4 @@ Builder Tokens:
 Builder Tokens represent the builders, developers, and creators who shaped Roblox.
 
 All Files:
-[Dictionary](../index.md)
+[Dictionary](../index)

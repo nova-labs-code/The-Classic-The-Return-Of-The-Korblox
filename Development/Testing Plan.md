@@ -79,4 +79,4 @@ The event should provide:
 - A memorable experience
 
 All Files:
-[Dictionary](../index.md)
+[Dictionary](../index)

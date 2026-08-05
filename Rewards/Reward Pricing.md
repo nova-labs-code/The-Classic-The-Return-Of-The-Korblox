@@ -26,7 +26,7 @@ Examples:
 
 Related:
 
-[Classic Clothing Rewards](Classic%20Clothing%20Rewards.md)
+[Classic Clothing Rewards](Classic%20Clothing%20Rewards)
 
 ---
 
@@ -73,4 +73,4 @@ Tiers determine the progression needed to unlock the reward.
 They do not represent item rarity.
 
 All Files:
-[Dictionary](../index.md)
+[Dictionary](../index)

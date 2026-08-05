@@ -25,7 +25,7 @@ Tixs are used for:
 - Other affordable rewards
 
 See:
-[Classic Clothing Rewards](../Rewards/Classic%20Clothing%20Rewards.md)
+[Classic Clothing Rewards](../Rewards/Classic%20Clothing%20Rewards)
 
 ---
 
@@ -44,4 +44,4 @@ Tixs should not be extremely rare.
 Players should feel rewarded for playing, exploring, and completing quests.
 
 All Files:
-[Dictionary](../index.md)
+[Dictionary](../index)

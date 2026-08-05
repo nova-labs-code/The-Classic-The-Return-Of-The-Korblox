@@ -1,4 +1,4 @@
-Classic clothing is unlocked using [Tixs](../Gameplay%20Systems/Tixs%20System.md).
+Classic clothing is unlocked using [Tixs](../Gameplay%20Systems/Tixs%20System).
 
 These rewards should feel like clothing from the classic Roblox era.
 
@@ -83,7 +83,7 @@ Players from the classic era.
 Tixs rewards should allow every player to participate, even if they cannot complete harder challenges.
 
 See:
-[Builder Token UGC Rewards](Builder%20Token%20UGC%20Rewards.md)
+[Builder Token UGC Rewards](Builder%20Token%20UGC%20Rewards)
 
 All Files:
-[Dictionary](../index.md)
+[Dictionary](../index)

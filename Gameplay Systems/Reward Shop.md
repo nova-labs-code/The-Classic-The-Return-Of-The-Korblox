@@ -8,8 +8,8 @@ The shop gives players a way to use the currencies they earn during the event.
 
 Players can exchange:
 
-- [Tixs](Tixs%20System.md) for classic rewards
-- [Builder Tokens](Builder%20Tokens%20System.md) for exclusive rewards
+- [Tixs](Tixs%20System) for classic rewards
+- [Builder Tokens](Builder%20Tokens%20System) for exclusive rewards
 
 ---
 
@@ -26,7 +26,7 @@ Possible rewards:
 
 Related:
 
-[Tix Shop](../Rewards/Tix%20Shop.md)
+[Tix Shop](../Rewards/Tix%20Shop)
 
 ---
 
@@ -42,7 +42,7 @@ Possible rewards:
 
 Related:
 
-[Builder Token Shop](../Rewards/Builder%20Token%20Shop.md)
+[Builder Token Shop](../Rewards/Builder%20Token%20Shop)
 
 ---
 
@@ -69,4 +69,4 @@ The system should:
 - Save ownership
 
 All Files:
-[Dictionary](../index.md)
+[Dictionary](../index)

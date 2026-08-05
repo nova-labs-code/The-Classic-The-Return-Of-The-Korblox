@@ -34,8 +34,8 @@ Includes:
 
 Players can view:
 
-- [Classic Clothing Rewards](../Rewards/Classic%20Clothing%20Rewards.md)
-- [Builder Token UGC Rewards](../Rewards/Builder%20Token%20UGC%20Rewards.md)
+- [Classic Clothing Rewards](../Rewards/Classic%20Clothing%20Rewards)
+- [Builder Token UGC Rewards](../Rewards/Builder%20Token%20UGC%20Rewards)
 
 ---
 
@@ -53,7 +53,7 @@ Players can see:
 
 Contains portals to:
 
-- [Participating Games](../Games/Participating%20Games.md)
+- [Participating Games](../Games/Participating%20Games)
 
 ---
 
@@ -67,4 +67,4 @@ Shows:
 
 
 All Files:
-[Dictionary](../index.md)
+[Dictionary](../index)

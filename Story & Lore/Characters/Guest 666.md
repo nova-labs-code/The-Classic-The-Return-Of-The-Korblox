@@ -48,4 +48,4 @@ Traits:
 Guest 666 represents the myths and stories created by the Roblox community.
 
 All Files:
-[Dictionary](../../index.md)
+[Dictionary](../../index)

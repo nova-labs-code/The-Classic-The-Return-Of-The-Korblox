@@ -1,4 +1,4 @@
-The Tix Shop allows players to spend [Tixs](../Gameplay%20Systems/Tixs%20System.md) on classic clothing and accessible event rewards.
+The Tix Shop allows players to spend [Tixs](../Gameplay%20Systems/Tixs%20System) on classic clothing and accessible event rewards.
 
 ---
 
@@ -23,7 +23,7 @@ Examples:
 
 Related:
 
-[Classic Clothing Rewards](Classic%20Clothing%20Rewards.md)
+[Classic Clothing Rewards](Classic%20Clothing%20Rewards)
 
 ---
 
@@ -75,4 +75,4 @@ The system should save:
 - Reward ownership
 
 All Files:
-[Dictionary](../index.md)
+[Dictionary](../index)

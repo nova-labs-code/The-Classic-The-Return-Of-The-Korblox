@@ -32,7 +32,7 @@ The experience must have:
 
 Related:
 
-[Game Requirements](../Games/Game%20Requirements.md)
+[Game Requirements](../Games/Game%20Requirements)
 
 ---
 
@@ -59,7 +59,7 @@ Developers provide:
 
 Related:
 
-[Quest System](../Gameplay%20Systems/Quest%20System.md)
+[Quest System](../Gameplay%20Systems/Quest%20System)
 
 ---
 
@@ -85,4 +85,4 @@ Approved developers receive:
 - Release schedule
 
 All Files:
-[Dictionary](../index.md)
+[Dictionary](../index)

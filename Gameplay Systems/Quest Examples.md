@@ -19,7 +19,7 @@ Reward:
 
 Related:
 
-[Tixs System](Tixs%20System.md)
+[Tixs System](Tixs%20System)
 
 ---
 
@@ -36,7 +36,7 @@ Reward:
 
 Related:
 
-[Classic Builder](../Story%20&%20Lore/Characters/Classic%20Builder.md)
+[Classic Builder](../Story%20&%20Lore/Characters/Classic%20Builder)
 
 ---
 
@@ -53,7 +53,7 @@ Reward:
 
 Related:
 
-[Classic Locations](../Story%20&%20Lore/Classic%20Locations.md)
+[Classic Locations](../Story%20&%20Lore/Classic%20Locations)
 
 ---
 
@@ -72,8 +72,8 @@ Reward:
 
 Related:
 
-[Bosses](../Story%20&%20Lore/Bosses.md)
-[Builder Tokens System](Builder%20Tokens%20System.md)
+[Bosses](../Story%20&%20Lore/Bosses)
+[Builder Tokens System](Builder%20Tokens%20System)
 
 ---
 
@@ -90,7 +90,7 @@ Reward:
 
 Related:
 
-[Story Timeline](../Story%20&%20Lore/Story%20Timeline.md)
+[Story Timeline](../Story%20&%20Lore/Story%20Timeline)
 
 ---
 
@@ -124,4 +124,4 @@ Final reward:
 - Completion badge
 
 All Files:
-[Dictionary](../index.md)
+[Dictionary](../index)

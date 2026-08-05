@@ -65,4 +65,4 @@ Possible secrets:
 - Rare collectibles
 
 All Files:
-[Dictionary](../index.md)
+[Dictionary](../index)

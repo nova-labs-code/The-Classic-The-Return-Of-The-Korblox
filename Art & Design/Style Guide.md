@@ -98,4 +98,4 @@ Rewards should be:
 Players should immediately know an item is from the event.
 
 All Files:
-[Dictionary](../index.md)
+[Dictionary](../index)

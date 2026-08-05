@@ -53,4 +53,4 @@ Traits:
 The Timeline Guardian connects every part of the event story together.
 
 All Files:
-[Dictionary](../../index.md)
+[Dictionary](../../index)

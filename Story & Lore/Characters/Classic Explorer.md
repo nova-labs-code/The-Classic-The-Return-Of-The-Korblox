@@ -54,4 +54,4 @@ Traits:
 The Classic Explorer represents the players who explored Roblox worlds.
 
 All Files:
-[Dictionary](../../index.md)
+[Dictionary](../../index)

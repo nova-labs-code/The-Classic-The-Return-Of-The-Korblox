@@ -1,6 +1,6 @@
 The Builder Token Shop contains exclusive UGC accessory rewards.
 
-Players use [Builder Tokens](../Gameplay%20Systems/Builder%20Tokens%20System.md) to unlock special classic-themed accessories.
+Players use [Builder Tokens](../Gameplay%20Systems/Builder%20Tokens%20System) to unlock special classic-themed accessories.
 
 ---
 
@@ -90,4 +90,4 @@ The system should save:
 - Reward ownership
 
 All Files:
-[Dictionary](../index.md)
+[Dictionary](../index)

@@ -49,4 +49,4 @@ Traits:
 The Classic Guest represents an important era of Roblox identity and community.
 
 All Files:
-[Dictionary](../../index.md)
+[Dictionary](../../index)

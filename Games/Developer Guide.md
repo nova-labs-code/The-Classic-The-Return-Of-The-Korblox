@@ -66,4 +66,4 @@ Games will be reviewed for:
 - Technical readiness
 
 All Files:
-[Dictionary](../index.md)
+[Dictionary](../index)

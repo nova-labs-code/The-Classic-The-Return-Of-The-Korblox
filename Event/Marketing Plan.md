@@ -47,4 +47,4 @@ Players should be encouraged to:
 - Invite friends
 
 All Files:
-[Dictionary](../index.md)
+[Dictionary](../index)
